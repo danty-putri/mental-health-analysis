@@ -10,8 +10,8 @@ Proyek ini menganalisis bagaimana durasi berada di dalam rumah, riwayat keluarga
 Analisis dilakukan menggunakan **Python** untuk eksplorasi data dan **Looker Studio** untuk pembuatan dashboard interaktif.
 
 ---
-🔗 Dashboard Interaktif
-
+## 🔗 Dashboard Interaktif
+![Preview](https://github.com/danty-putri/mental-health-analysis/blob/main/Dashboard.png)
 Dashboard dapat diakses melalui link berikut:
 
 👉 Klik untuk membuka Dashboard Looker Studio
